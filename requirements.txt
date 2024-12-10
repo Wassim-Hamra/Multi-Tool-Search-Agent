@@ -1,0 +1,8 @@
+langchain
+langchain_community
+langchain_groq
+python-dotenv
+streamlit
+arxiv
+wikipedia
+duckduckgo-search
